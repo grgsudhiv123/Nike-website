@@ -4,6 +4,7 @@ import { bigShoe1, thumbnailbg } from "../assets/images"
 import {shoes} from "../constants/index"
 import ShoeCard from "../components/ShoeCard"
 import { useState } from "react"
+// comment
 
 import { statistics } from "../constants/index"
 const Hero = () => {
