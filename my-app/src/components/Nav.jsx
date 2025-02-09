@@ -1,4 +1,3 @@
-import React from 'react'
 import headerLogo from "../assets/images/header-logo.svg"
 import menu from "../assets/icons/hamburger.svg"
 import { navLinks } from '../constants'

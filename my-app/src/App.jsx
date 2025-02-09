@@ -26,10 +26,10 @@ const App = () => {
       <section className="bg-pale-blue sm:px-16 px-8 sm:py24 py-12">
         <CustomerComponents />
       </section>
-      <section className="bg-slate-600 sm:px:16 px-8 sm:py-32 py-16 w-full">
+      <section className="sm:px:16 px-8 sm:py-32 py-16 w-full">
         <Subscribe />
       </section>
-      <section className="bg-black sm:px-16 px-8 sm:pt-24 pt-12 pb-8">
+      <section className="bg-black sm:px-16 px-8 sm:pt-24 pt-12 pb-16">
         <Footer />
       </section>
     </main>

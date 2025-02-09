@@ -1,4 +1,3 @@
-import React from 'react';
 
 const ShoeCard = ({ imgUrl, changeBigShoe, bigShoeImg }) => {
   const handleOnClick = () => {

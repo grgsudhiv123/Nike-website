@@ -1,4 +1,3 @@
-import React from 'react'
 import {shoe8} from "../assets/images"
 import Buttons from "../components/Buttons"
 
